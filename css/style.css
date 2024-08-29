@@ -1,0 +1,74 @@
+.container{
+  margin: 50px;
+}
+
+body{
+  width: 80%;
+  margin: auto;
+}
+
+
+.s_item{
+  padding: 20px;
+  border-radius: 20px;
+  background: rgb(69, 144, 243);
+  color: white;
+}
+.middle{
+  background-color: rgb(255, 74, 74);
+}
+
+.c_design{
+  padding: 25px;
+  border-radius: 20px;
+  background-color: rgb(253, 95, 95);
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}
+
+.counterf{
+  display: block;
+}
+
+.d{
+  font-size: 100px;
+  font-weight: 600;
+   text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+
+.box{
+  height: 300px;
+  
+  background: red;
+}
+
+
+.design{
+  margin: 20px;
+}
+
+.red{
+  background: #000;
+}
+
+.one{
+  height: 400px;
+  background-color: #000;
+  align-items: center;
+}
+
+.two{
+  background-color: white;
+  height: 300px;
+  
+  margin:20px ;
+
+
+}
+
+.three{
+  background: rgb(102, 163, 255);
+}
